@@ -65,7 +65,7 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
       <a href="https://github.com/Mohamed-Elokda/Moratabi"><b>View Repository ↗</b></a>
     </td>
     <td width="33.3%" valign="top">
-      <h3>💬 Chat App</h3>
+      <h3>💬 Convo App</h3>
       <p>A real-time instant messaging Android application featuring seamless bidirectional communication.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
@@ -76,7 +76,7 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
         <li>Integrated Socket.IO for instantaneous, low-latency messaging.</li>
         <li>Utilized Room Database for secure local chat history persistence.</li>
       </ul>
-      <a href="https://github.com/Mohamed-Elokda"><b>View Repository ↗</b></a>
+      <a href="https://github.com/Mohamed-Elokda/convoapp"><b>View Repository ↗</b></a>
     </td>
   </tr>
 </table>
