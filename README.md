@@ -36,7 +36,7 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
 
 <table>
   <tr>
-    <td>
+    <td width="33.3%" valign="top">
       <h3>📱 Mnadib Cairo</h3>
       <p>An offline-first sales and inventory tracking Android application engineered for field agents.</p>
       <p>
@@ -50,7 +50,7 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
       </ul>
       <a href="https://github.com/Mohamed-Elokda/Mnadibcairo"><b>View Repository ↗</b></a>
     </td>
-    <td>
+    <td width="33.3%" valign="top">
       <h3>🖥️ Mortabi</h3>
       <p>A comprehensive Windows Forms desktop application designed for enterprise payroll management.</p>
       <p>
@@ -59,10 +59,24 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
         <img src="https://img.shields.io/badge/Guna_UI-orange?style=flat-square" />
       </p>
       <ul>
-        <li>Programmed complex accounting rules for automated salary and tax calculations.</li>
+        <li>Programmed complex accounting rules for automated salary calculations.</li>
         <li>Optimized database queries using Dapper ORM for maximum speed.</li>
       </ul>
       <a href="https://github.com/Mohamed-Elokda/Moratabi"><b>View Repository ↗</b></a>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3>💬 Chat App</h3>
+      <p>A real-time instant messaging Android application featuring seamless bidirectional communication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Room_DB-blue?style=flat-square" />
+      </p>
+      <ul>
+        <li>Integrated Socket.IO for instantaneous, low-latency messaging.</li>
+        <li>Utilized Room Database for secure local chat history persistence.</li>
+      </ul>
+      <a href="https://github.com/Mohamed-Elokda"><b>View Repository ↗</b></a>
     </td>
   </tr>
 </table>
@@ -72,8 +86,8 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elokda&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elokda&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
