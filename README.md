@@ -48,7 +48,7 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
         <li>Implemented full offline sync utilizing Room and WorkManager.</li>
         <li>Designed automated real-time sales and invoicing logic.</li>
       </ul>
-      <a href="https://github.com/YOUR_USERNAME/Mnadib-Cairo"><b>View Repository ↗</b></a>
+      <a href="https://github.com/Mohamed-Elokda/Mnadibcairo"><b>View Repository ↗</b></a>
     </td>
     <td>
       <h3>🖥️ Mortabi</h3>
@@ -62,7 +62,7 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
         <li>Programmed complex accounting rules for automated salary and tax calculations.</li>
         <li>Optimized database queries using Dapper ORM for maximum speed.</li>
       </ul>
-      <a href="https://github.com/YOUR_USERNAME/Mortabi"><b>View Repository ↗</b></a>
+      <a href="https://github.com/Mohamed-Elokda/Moratabi"><b>View Repository ↗</b></a>
     </td>
   </tr>
 </table>
@@ -81,10 +81,10 @@ I am a passionate **Software Engineer** with a strategic edge—combining a soli
 ### 🤝 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/mohammed-ahmed-elokda-4a751a177/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@email.com" target="blank">
+  <a href="mailto:mohamedelokdah19@email.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
